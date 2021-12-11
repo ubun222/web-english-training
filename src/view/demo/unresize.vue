@@ -26,5 +26,5 @@ export default {
 };
 </script>
 <template>
-<iframe src="https://keyboarder.xyz" width="100%" height="100%" frameborder="0"  id="iframename" name="iframename"></iframe>
+<iframe src="/index2.html" width="100%" height="100%" frameborder="0"  id="iframename" name="iframename"></iframe>
 </template>
